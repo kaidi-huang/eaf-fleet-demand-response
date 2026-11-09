@@ -13,15 +13,14 @@ Material.
 
 ```
 supplementary.pdf        Supplementary Material of the paper
-supplementary.tex        LaTeX source of the Supplementary Material
 scripts/
-    gpoly_example.py     check of the example in Section S3
+    gpoly_example.py     check of the example in Section III
 LICENSE                  CC BY 4.0
 ```
 
 ## Supplementary Material
 
-`supplementary.pdf` restates the model of the paper and gives
+`supplementary.pdf` gives
 
 - the rows of the counting polytope for the live state and the end of the
   horizon,
@@ -32,7 +31,7 @@ LICENSE                  CC BY 4.0
 ## Example check
 
 `scripts/gpoly_example.py` enumerates the schedules of the example plant in
-Section S3, prints the load vectors of the first three blocks, and lists the
+Section III, prints the load vectors of the first three blocks, and lists the
 vertices and edges of their convex hull. Its output contains the edge from
 (2, 2, 1) to (3, 1, 2), of direction (1, -1, 1). It requires NumPy and SciPy:
 

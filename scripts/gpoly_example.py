@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Check of the example in Section S3 of the Supplementary Material.
+"""Check of the example in Section III of the Supplementary Material.
 
 The plant has one furnace and one caster, heat time d = 2, turnaround g = 0, casting time c = 3, idle limit b = 1 and
 waiting limit w = 1. At the notice t = 0 the furnace is idle, no ladle is waiting, and the cast in progress ends at
