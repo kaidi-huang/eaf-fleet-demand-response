@@ -7,11 +7,14 @@ This repository accompanies the paper
 
 Its file `supplementary.pdf` gives
 
-- the proofs of Theorems 1 to 4 of the paper,
+- the proofs of Theorems 1 to 4 of the paper, with the constants and hard
+  instances of Theorem 3,
 - the rows of the counting polytope for the live state and the end of the
-  horizon, and
+  horizon,
+- the arc LP of the furnace power band and the LP solved by Algorithm 1,
+- the rows for refining stages and finite casting sequences, and
 - an example showing that the block loads of a plant need not form a
-  generalized polymatroid (Theorem 1(ii)).
+  generalized polymatroid.
 
 ## Citation
 
