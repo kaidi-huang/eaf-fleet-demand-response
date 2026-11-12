@@ -2,8 +2,8 @@
 
 This repository accompanies the paper
 
-> "Cast-Break-Free Demand Response of Electric Arc Furnace Fleets: Exact
-> Counting Polytopes and Certified Rolling Dispatch"
+> "Cast-Break-Free Demand Response of Arc Furnace Fleets: Counting
+> Polytopes and Certified Dispatch"
 
 Its file `supplementary.pdf` gives
 
