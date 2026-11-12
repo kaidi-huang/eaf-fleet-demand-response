@@ -1,4 +1,4 @@
-# Cast-Break-Free Demand Response of Electric Arc Furnace Fleets: Supplementary Material
+# Cast-Break-Free Demand Response of Arc Furnace Fleets: Supplementary Material
 
 This repository accompanies the paper
 
@@ -18,7 +18,7 @@ Its file `supplementary.pdf` gives
 
 ## Citation
 
-K. Huang, "Cast-break-free demand response of electric arc furnace fleets:
+K. Huang, "Cast-break-free demand response of arc furnace fleets:
 Supplementary material," 2026. [Online]. Available:
 https://github.com/kaidi-huang/eaf-fleet-demand-response
 
